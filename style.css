@@ -34,6 +34,9 @@ body{
     padding: 1em;
     border: none;
 }
+.tareas{
+    margin-top: 1em;
+}
 article.tarea {
     background: #7777d0;
     color: white;
